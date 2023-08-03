@@ -1,1 +1,1 @@
-3d-pf.netlify.app
+https://3d-pf.netlify.app/

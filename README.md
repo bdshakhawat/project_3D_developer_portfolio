@@ -90,7 +90,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](3d-pf.netlify.app)
+- [Live Demo Link]((https://3d-pf.netlify.app/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
