@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./assets/image/photo.jpeg" alt="logo" width="140"  height="auto" />
+  <img src="" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Portfolio Project</b></h3>
@@ -38,7 +38,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 Portfolio Project ](#-portfolio-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -90,7 +90,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://bdshakhawat.github.io/m-pf/)
+- [Live Demo Link](3d-pf.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +141,7 @@ Install this project with:
 
 ### Usage
 
-To run the project, double click on ```index.html``` file or run this file in your favorite browser.
+To run the project, double click on ```npm run dev``` file or run this file in your favorite browser.
 
 <!--
 Example command:
