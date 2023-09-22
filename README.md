@@ -127,7 +127,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd project_3D_developer_portfolio
-  (https://github.com/bdshakhawat/project_3D_developer_portfolio.git)
+  [(https://github.com/bdshakhawat/project_3D_developer_portfolio.git)]
 ```
 
 ### Install
