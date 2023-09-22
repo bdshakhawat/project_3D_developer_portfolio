@@ -70,9 +70,9 @@ After you're finished please remove all the comments and instructions!
 
 
 <details>
-  <summary>Client</summary>
+  <summary>Front-end</summary>
   <ul>
-    <li>HTML and CSS</li>
+    <li>React Next Js</li>
   </ul>
 </details>
 
@@ -126,8 +126,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd my-folder
-  git clone git@github.com:bdshakhawat/m-pf.git
+  cd project_3D_developer_portfolio
+  (https://github.com/bdshakhawat/project_3D_developer_portfolio.git)
 ```
 
 ### Install
@@ -135,8 +135,8 @@ Clone this repository to your desired folder:
 Install this project with:
 
 <ul>
-  <li>Node</li>
-  <li>Linters (follow this link's instruction <a href="https://github.com/microverseinc/linters-config">install linter</a>)</li>
+  <li>npm install</li>
+  
 </ul>
 
 ### Usage
