@@ -164,7 +164,7 @@ Example command:
 
 ### Deployment
 
-Deployment instruction will be added soon
+Create an account in netlify and deploy from github repo
 <!--
 Example:
 
